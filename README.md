@@ -1,6 +1,6 @@
 # PSBBN Art Database  
-**Game Image Count: 13,420 / 22,550**  
-**App Image Count: 310**  
+**Game Image Count: 13,426 / 22,550**  
+**App Image Count: 322**  
 
 This is the art database for the [PSBBN Definitive English Patch](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch) project. When the game installer is used, all artwork downloaded from IGN is automatically contributed and uploaded here. Missing artwork is also reported. Missing game artwork is logged in `missing-art-matter.log`, and missing app artwork is logged in `missing-app-master.log`. The goal of this database is to reduce our reliance on IGN for artwork and eventually eliminate it entirely.  
 
