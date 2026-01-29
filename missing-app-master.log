@@ -302,3 +302,5 @@ LOONIES8192,Loonies8192 R67 PS2,loonies8192-r67-ps2.elf
 FLAPPYBIRD,Flappy Bird,flappy_bird.elf
 EECORE,EE Core,ee_core.elf
 CCLESTE,Ccleste,ccleste.elf
+GSMS,GSMS,GSMSv0.37.ELF
+FORMAT64,Format64,Format64.elf
