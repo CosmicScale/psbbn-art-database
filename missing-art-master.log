@@ -623,7 +623,6 @@ SLES_535.92 Zombie Attack
 SCPS_150.43 DekaVoice
 SLPM_620.03 Mahjong Taikai III: Millennium League
 SLES_533.67 Dodgeball
-SLES_515.54 Cel Damage Overdrive
 SLES_515.23 Conflict: Desert Storm II
 SLPS_258.15 Dragon Ball Z: Sparking! Meteor
 SLPS_002.37 Champion Wrestler: Jikkyou Live
@@ -981,12 +980,10 @@ SLES_527.76 Junior Board Games
 SLES_520.28 Junior Sports Basketball
 SLES_538.09 K-1 Premium Dynamite!!
 SLES_547.25 Kirikou and the Wild Beasts
-SLES_503.51 Lake Masters EX
 SLES_539.02 Leaderboard Golf
 SLES_548.64 Legend of Camelot
 SLES_522.44 Legend of Herkules
 SLES_528.09 Lemony Snicket: Ratselhafte Ereignisse
-SLES_539.23 London Cab Challenge
 SLES_518.63 Maze Action
 SLES_523.70 The Mouse Police
 SLES_544.58 Party Carnival
@@ -1014,7 +1011,6 @@ SLPM_657.00 Kengou 3
 SLPM_669.15 Yu-Gi-Oh! Duel Monsters GX: Tag Force Evolution
 SLPS_013.51 Enigma (Disc 1)
 SLPS_013.52 Enigma (Disc 2)
-SCES_020.09 Kurushi Final
 SLES_518.62 Bass Master Fishing
 SLES_004.51 Lomax
 SLPM_871.30 Bakuten Shoot Beyblade 2002: Bey Battle Tournament 2 (Gentei)
@@ -2617,7 +2613,6 @@ SLKA_253.42 Yonggwa Gachi
 SLPM_652.83 Green Green: Kane no Ne: Romantic
 SLPS_004.90 Power Rangers Pinball
 SLPS_256.11 Strawberry Panic! (Shokai Genteiban)
-SCES_014.30 LiberoGrande
 SLPM_652.62 Boboboubo Boubobo: Hajike Matsuri
 SLPS_200.58 Kengou
 SLPM_550.31 Majin Tantei Nougami Neuro: Battle da yo! Hannin Shuugou!
@@ -2911,7 +2906,6 @@ SLES_510.79 Club Football: Ajax Amsterdam
 SLPM_624.88 Taisen Hot Gimmick: Cosplay-jong
 SLES_542.31 Ricky Ponting International Cricket 2007
 SLPS_010.48 Cyber Egg: Battle Champion
-SCES_020.10 Kurushi Final
 SLES_037.32 Nickelodeon Rocket Power: Sauvetage Extrême
 SLPS_005.08 The Tower: Bonus Edition
 SLPS_019.38 Colin McRae: The Rally
@@ -2932,7 +2926,111 @@ SLES_028.37 Les Visiteurs: La Relique de Sainte Rolande
 SLPS_002.49 Kokumeikan
 SCPS_100.59 Legaia Densetsu
 SLPS_015.76 Blaze & Blade Busters
-SLES_526.60 Club Football 2005: FC Internazionale
 SLPM_804.08 Kagayaku Kisetsu e (Taikenban)
 SLES_522.86 Tak y el Poder Juju
 SLPS_013.49 Uno
+SLES_504.30 X Games Skateboarding
+SLPS_201.28 Marl de Jigsaw (Genteiban)
+SLES_037.76 Sky Sports Football Quiz
+SLES_526.98 Manchester United Manager 2005
+SCED_040.56 Euro Demo (Future) 94
+SCED_040.74 Euro Demo (Future) 95
+SCED_040.75 Euro Demo (Future) 96
+SCED_040.76 Euro Demo (Future) 97
+SCED_040.77 Euro Demo (Future) 98
+SCED_040.79 Euro Demo (Future) 100
+SCED_040.80 Euro Demo (Future) 101
+SCED_040.81 Euro Demo (Future) 102
+SCED_040.82 Euro Demo (Future) 103
+SCED_040.83 Euro Demo (Future) 104
+SCED_040.84 Euro Demo (Future) 105
+SCED_040.85 Euro Demo (Future) 106
+SCED_041.33 Euro Demo (Future) 107
+SCED_041.34 Euro Demo (Future) 108
+SCED_003.63 Euro Demo 11
+SCED_003.65 Euro Demo 13
+SCED_003.67 Euro Demo 15
+SCED_003.68 Euro Demo 16
+SCED_003.69 Euro Demo 17
+SCED_003.70 Euro Demo 18
+SCED_003.71 Euro Demo 19
+SCED_003.72 Euro Demo 20
+SCED_008.17 Euro Demo 21
+SCED_008.18 Euro Demo 22
+SCED_008.19 Euro Demo 23
+SCED_008.20 Euro Demo 24
+SCED_008.21 Euro Demo 25
+SCED_008.22 Euro Demo 26
+SCED_008.23 Euro Demo 27
+SCED_008.24 Euro Demo 28
+SCED_008.25 Euro Demo 29
+SCED_008.26 Euro Demo 30
+SCED_008.27 Euro Demo 31
+SCED_008.28 Euro Demo 32
+SCED_008.29 Euro Demo 33
+SCED_011.44 Euro Demo 34
+SCED_011.45 Euro Demo 35
+SCED_011.46 Euro Demo 36 (Demo)
+SCED_011.47 Euro Demo 37 (Europe)
+SCED_011.48 Euro Demo 38 (Europe)
+SCED_011.49 Euro Demo 39
+SCED_011.50 Euro Demo 40
+SCED_011.51 Euro Demo 41
+SCED_011.52 Euro Demo 42
+SCED_011.53 Euro Demo 43
+SCED_018.18 Euro Demo 44
+SCED_018.20 Euro Demo 46
+SCED_018.21 Euro Demo 47
+SCED_018.22 Euro Demo 48
+SCED_018.23 Euro Demo 49
+SCED_022.29 Euro Demo 49
+SCED_022.30 Euro Demo 49
+SCED_018.25 Euro Demo 51
+SCED_018.26 Euro Demo 52
+SCED_018.27 Euro Demo 53 (Europe)
+SCED_018.28 Euro Demo 54
+SCED_018.29 Euro Demo 55
+SCED_018.30 Euro Demo 56
+SCED_018.31 Euro Demo 57
+SCED_026.32 Euro Demo 58
+SCED_026.33 Euro Demo 59
+SCED_026.34 Euro Demo 60
+SCED_026.35 Euro Demo 61
+SCED_026.36 Euro Demo 62
+SCED_026.37 Euro Demo 63
+SCED_026.38 Euro Demo 64
+SCED_026.39 Euro Demo 65
+SCED_026.40 Euro Demo 66
+SCED_026.41 Euro Demo 67
+SCED_026.42 Euro Demo 68
+SCED_026.43 Euro Demo 69
+SCED_026.44 Euro Demo 70
+SCED_026.45 Euro Demo 71
+SCED_026.46 Euro Demo 72
+SCED_034.50 Euro Demo 73
+SCED_034.51 Euro Demo 74
+SCED_034.52 Euro Demo 75
+SCED_034.53 Euro Demo 76
+SCED_034.54 Euro Demo 77
+SCED_034.55 Euro Demo 78
+SCED_034.56 Euro Demo 79
+SCED_034.57 Euro Demo 80
+SCED_034.58 Euro Demo 81
+SCED_037.85 Euro Demo 82
+SCED_037.86 Euro Demo 83
+SCED_037.87 Euro Demo 84
+SCED_037.88 Euro Demo 85
+SCED_037.89 Euro Demo 86
+SCED_037.90 Euro Demo 87
+SCED_037.91 Euro Demo 88
+SCED_037.92 Euro Demo 89
+SCED_037.93 Euro Demo 90
+SCED_037.94 Euro Demo 91
+SCED_040.16 Euro Demo 92
+SCED_040.78 Euro Demo 99
+SCED_040.35 Euro Demo Future 93
+SLES_505.49 Football Manager Campionato 2002
+SLES_510.26 Football Manager Campionato 2003
+SLES_000.94 Firo & Klawd
+SLPM_868.67 Simple 1500 Series: Hello Kitty Vol. 02: Illust Puzzle
+SLPS_017.46 Tsumu
