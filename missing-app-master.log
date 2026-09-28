@@ -22,7 +22,6 @@ APP_NETFS,smbLaunchELF,NETFS.ELF
 APP_OGGVORBI,OGG Vorbis Player,OGG Vorbis Player beta 01.elf
 APP_OPLNEUT,OPL Neutrino GUI,OPLNEUTV41.ELF
 APP_PS2ESDL,Playstation 2 External Storage Device Game Loader,PS2ESDL v0.825 OB.elf
-APP_PS2LAUNC,PS2 Launcher,PS2-Launcher-v3.1.0.ELF
 APP_PS2LUAPL,PS2 Lua Player,PS2 LUA Player v0.20 R3.elf
 APP_PS2MP3,PlayStation 2 MP3 Player SE,PlayStation 2 MP3 Player SE v1.3.elf
 APP_PS2OS,PS2OS,PS2OS.ELF
@@ -139,3 +138,12 @@ GME_YETI3D,Yeti3D,YETI3D PS2 fixed1.elf
 SYS_HWCLANGU,HWC's Language Selector,HWC_Language_Selector.ELF
 SYS_IGR,Return to Boot Card,IGR.ELF
 SYS_PS2EJECT,PS2 Eject,PS2Eject.ELF
+APP_DISCORDP,Discord PS2,DISCORD_PS2_V03.ELF
+APP_ATAESRBO,ATA ESR Bootstrap 0.2.7c,ATA_ESR_Bootstrap_0.2.7c.elf
+APP_MMCEESRB,MMCE ESR Bootstrap 0.2.5h,MMCE_ESR_Bootstrap_0.2.5h.elf
+APP_DPS2,D PS2,DPS2V02.ELF
+APP_FORMAT64,Format64,Format64.elf
+APP_LAUNCHER,Launcher,launcher.elf
+APP_MYPS2,My PS2,MyPS2 v1.3.elf
+APP_PS2TOOLH,PS2 Tool Hub,PS2 ToolHub.elf
+APP_PS2LBLAC,PS2 L Black,PS2L-Black.ELF
