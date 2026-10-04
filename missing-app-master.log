@@ -147,3 +147,5 @@ APP_LAUNCHER,Launcher,launcher.elf
 APP_MYPS2,My PS2,MyPS2 v1.3.elf
 APP_PS2TOOLH,PS2 Tool Hub,PS2 ToolHub.elf
 APP_PS2LBLAC,PS2 L Black,PS2L-Black.ELF
+APP_REPAIRBO,RepairBox.pl PSX XMB Dynamic App Installer,RepairBox.pl-PSX-XMB-Dynamic-App-Installer-v1.1-MMCE.elf
+APP_NEXTESRL,NextESR Loader,NextESR Loader v0.3.19.elf
