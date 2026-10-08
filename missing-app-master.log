@@ -149,3 +149,8 @@ APP_PS2TOOLH,PS2 Tool Hub,PS2 ToolHub.elf
 APP_PS2LBLAC,PS2 L Black,PS2L-Black.ELF
 APP_REPAIRBO,RepairBox.pl PSX XMB Dynamic App Installer,RepairBox.pl-PSX-XMB-Dynamic-App-Installer-v1.1-MMCE.elf
 APP_NEXTESRL,NextESR Loader,NextESR Loader v0.3.19.elf
+APP_GH2MANGR,Gh2mangr,GH2MANGR.ELF
+APP_BB,BB,BB.ELF
+APP_DVDDUMP,Dvddump,DVDDUMP.elf
+APP_NES,NES,NES.elf
+APP_SNES,Snes,SNES.elf
